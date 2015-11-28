@@ -1,0 +1,11 @@
+{
+  "name": "mooch-notifications",
+  "version": "",
+  "description": "Provides a simple API for creating notifications",
+  "devDependencies": {
+    "eslint": "^1.10.2",
+    "eslint-config-airbnb": "^1.0.2",
+    "eslint-plugin-meteor": "^1.7.0",
+    "eslint-plugin-react": "^3.10.0"
+  }
+}
