@@ -21,6 +21,7 @@ Package.onUse(function(api) {
   // The files of this package
   api.addFiles('shared/index.js', ['client', 'server']);
   api.addFiles('server/index.js', 'server');
+  api.addFiles('client/index.js', 'client');
 
   // The variables that become global for users of your package
   api.export('Notifications', ['client', 'server']);
